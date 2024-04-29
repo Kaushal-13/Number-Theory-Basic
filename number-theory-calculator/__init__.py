@@ -1,1 +1,1 @@
-from functions import testing
+from functions import generatePrimes
